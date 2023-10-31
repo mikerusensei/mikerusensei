@@ -1,6 +1,5 @@
 ### Hi there 👋, Michael Ponce
 #### Software Development
-![Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Michael Ponce from Philippines. I'm 2nd year student of Bachelor of Science in Computer Science at College of Mary Immaculate of Pandi, Bulacan (Inc.). I do love coding and developing softwares, you can check the respositories in my profile.
 
